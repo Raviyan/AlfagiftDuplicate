@@ -18,6 +18,7 @@ public class Beranda extends AppCompatActivity {
          pindah2 = findViewById(R.id.imageView38);
          pindah3 = findViewById(R.id.imageView39);
          pindah4 = findViewById(R.id.imageView16);
+         //Ini Beranda
 
          pindah1.setOnClickListener(new View.OnClickListener() {
              @Override
